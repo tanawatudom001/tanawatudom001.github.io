@@ -18,9 +18,9 @@ function Footer() {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.facebook.com/bank.tanawat.14" ><FaFacebookF /></a>
-        <a href="https://www.instagram.com/tnw_bank/" ><FiInstagram /></a>
-        <a href="https://twitter.com/MCargokorea" ><IoLogoTwitter /></a>
+        <a href="https://www.facebook.com/bank.tanawat.14" target='_blank'><FaFacebookF /></a>
+        <a href="https://www.instagram.com/tnw_bank/" target='_blank'><FiInstagram /></a>
+        <a href="https://twitter.com/MCargokorea" target='_blank'><IoLogoTwitter /></a>
       </div>
 
       <div className='footer__copyright'>

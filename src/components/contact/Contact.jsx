@@ -35,11 +35,11 @@ const Contact = () => {
             <h5>tanawatudom001@hotmail.com</h5>
             <a href="mailto:tanawatudom001@hotmail.com">Send a massage</a>
           </article>
-          <article className="contact__option">
+          <article className="contact__option"> 
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5>Bank Tanawat</h5>
-            <a href="https://m.me/bank.tanawat.14">Send a massage</a>
+            <a href="https://m.me/bank.tanawat.14" target='_blank'>Send a massage</a>
           </article>
           <article className="contact__option">
             <AiOutlinePhone className='contact__option-icon'/>
