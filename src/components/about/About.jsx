@@ -42,7 +42,7 @@ function about() {
           </p>
           <h3>EDUCATION HISTORY</h3>
           <p>
-          2017 - 2022 <br />
+          2017 - 2021 <br />
           BACHELOR OF COMPUTER ENGINEERING <br />
           Khon Kaen University <br />
           Khon Kaen, Thailand
